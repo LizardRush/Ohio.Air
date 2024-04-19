@@ -1,6 +1,6 @@
 {
-  "pages: {
-    "/": ["main.html","main.js","main.css"],
+  "pages": {
+    "/": ["main.html","main.js","main.css"]
   },
   "links": {"88542": "https://discord.gg/jZhV5MNVS5"}
 }
